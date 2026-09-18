@@ -1,0 +1,36 @@
+{
+  "nomTierList": "BP3",
+  "tierJsonList": [
+    {
+      "labelTier": "Incroyable",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#d44fd4",
+      "items": []
+    },
+    {
+      "labelTier": "Bien",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    },
+    {
+      "labelTier": "Moyen",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "Nul",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "Très Nul",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

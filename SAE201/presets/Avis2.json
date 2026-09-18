@@ -1,0 +1,30 @@
+{
+  "nomTierList": "Avis2",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

@@ -1,0 +1,42 @@
+{
+  "nomTierList": "BP4",
+  "tierJsonList": [
+    {
+      "labelTier": "S. Love",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "A. Like",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    },
+    {
+      "labelTier": "B. Okay",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "C. Meh",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "D. Nope",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "E. Hate",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#9b59b6",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

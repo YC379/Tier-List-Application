@@ -1,0 +1,36 @@
+{
+  "nomTierList": "BP1",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e64d4d",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#ff9966",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "D",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#99b3ff",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

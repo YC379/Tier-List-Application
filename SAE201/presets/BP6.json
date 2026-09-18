@@ -1,0 +1,30 @@
+{
+  "nomTierList": "BP6",
+  "tierJsonList": [
+    {
+      "labelTier": "J\u0027adore",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "J\u0027aime",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    },
+    {
+      "labelTier": "Sympa",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "Moyen",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

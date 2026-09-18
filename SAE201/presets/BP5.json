@@ -1,0 +1,36 @@
+{
+  "nomTierList": "BP5",
+  "tierJsonList": [
+    {
+      "labelTier": "Amazing",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e638c9",
+      "items": []
+    },
+    {
+      "labelTier": "Really Good",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    },
+    {
+      "labelTier": "Pretty Good",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "Ok",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "Too Bad",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    }
+  ],
+  "reserveItems": []
+}

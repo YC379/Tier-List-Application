@@ -1,0 +1,61 @@
+{
+  "nomTierList": "Films_StarWars",
+  "tierJsonList": [
+    {
+      "labelTier": "J\u0027aime",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "Sympa",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "Moyen",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "Un peu nul",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "texte",
+      "contenu": "Star Wars: Episode I - The Phantom Menace",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Star Wars: Episode II - Attack of the Clones",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "Star Wars: Episode III - Revenge of the Sith",
+      "couleur": "#e84393"
+    },
+    {
+      "type": "texte",
+      "contenu": "Star Wars - Épisode IV : Un Nouvel Espoi",
+      "couleur": "#2c3e50"
+    },
+    {
+      "type": "texte",
+      "contenu": "Star Wars Episode V: The Empire Strikes Back",
+      "couleur": "#3498db"
+    },
+    {
+      "type": "texte",
+      "contenu": "Star Wars Episode VI: Return of the Jedi",
+      "couleur": "#e74c3c"
+    }
+  ]
+}

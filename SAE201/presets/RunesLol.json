@@ -1,0 +1,123 @@
+{
+  "nomTierList": "RunesLol",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "D",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#9b59b6",
+      "items": []
+    },
+    {
+      "labelTier": "E",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "texte",
+      "contenu": "Appuyer sur l\u0027attaque",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Tempo mortel",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "Flèche d\u0027arcade",
+      "couleur": "#e84393"
+    },
+    {
+      "type": "texte",
+      "contenu": "Conquérant",
+      "couleur": "#2c3e50"
+    },
+    {
+      "type": "texte",
+      "contenu": "Électrocution",
+      "couleur": "#3498db"
+    },
+    {
+      "type": "texte",
+      "contenu": "Moisson sombre ",
+      "couleur": "#e74c3c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Grêle de lames",
+      "couleur": "#2ecc71"
+    },
+    {
+      "type": "texte",
+      "contenu": "Invocation d\u0027Aery",
+      "couleur": "#f1c40f"
+    },
+    {
+      "type": "texte",
+      "contenu": "Comète des arcanes",
+      "couleur": "#9b59b6"
+    },
+    {
+      "type": "texte",
+      "contenu": "Emprise de l\u0027immortel",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Contrecoup",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "Gardien",
+      "couleur": "#e84393"
+    },
+    {
+      "type": "texte",
+      "contenu": "Augmentation glaciale",
+      "couleur": "#2c3e50"
+    },
+    {
+      "type": "texte",
+      "contenu": "Livre de sorts scellé",
+      "couleur": "#3498db"
+    },
+    {
+      "type": "texte",
+      "contenu": "Premier coup",
+      "couleur": "#e74c3c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Ruée de phase",
+      "couleur": "#e67e22"
+    }
+  ]
+}

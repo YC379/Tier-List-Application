@@ -1,0 +1,79 @@
+{
+  "nomTierList": "MapsCS2",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    },
+    {
+      "labelTier": "D",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#9b59b6",
+      "items": []
+    },
+    {
+      "labelTier": "E",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e67e22",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "image",
+      "contenu": "/Images/All-CS2-Dust-2-map-callouts.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/All-CS2-Nuke-map-callouts.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/All-CS2-Vertigo-map-callouts.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Ancient.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Anubis.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Inferno.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Mirage.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Overpass.jpg"
+    },
+    {
+      "type": "image",
+      "contenu": "/Images/CS2-Map-Callouts-Train.jpg"
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "nomTierList": "OpenWorldWarFrame",
+  "tierJsonList": [
+    {
+      "labelTier": "J\u0027aime",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "Sympa",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "Moyen",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "Un peu nul",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "texte",
+      "contenu": "Plaines d\u0027Eidolon",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Vallée d\u0027Orbis",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "Puy de Cambion",
+      "couleur": "#e84393"
+    },
+    {
+      "type": "texte",
+      "contenu": "Duviri",
+      "couleur": "#2c3e50"
+    }
+  ]
+}

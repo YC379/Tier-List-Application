@@ -1,0 +1,46 @@
+{
+  "nomTierList": "HellDivers2Factions",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "texte",
+      "contenu": "terminides",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "automaton",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "illuminés",
+      "couleur": "#e84393"
+    }
+  ]
+}

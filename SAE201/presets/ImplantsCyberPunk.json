@@ -1,0 +1,71 @@
+{
+  "nomTierList": "ImplantsCyberPunk",
+  "tierJsonList": [
+    {
+      "labelTier": "S",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#3498db",
+      "items": []
+    },
+    {
+      "labelTier": "A",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#e74c3c",
+      "items": []
+    },
+    {
+      "labelTier": "B",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#2ecc71",
+      "items": []
+    },
+    {
+      "labelTier": "C",
+      "couleurLabelTier": "#000000",
+      "couleurTier": "#f1c40f",
+      "items": []
+    }
+  ],
+  "reserveItems": [
+    {
+      "type": "texte",
+      "contenu": "Compresseur de chrome",
+      "couleur": "#1abc9c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Berserk",
+      "couleur": "#34495e"
+    },
+    {
+      "type": "texte",
+      "contenu": "Bras de gorille",
+      "couleur": "#e84393"
+    },
+    {
+      "type": "texte",
+      "contenu": "Lame mantis",
+      "couleur": "#2c3e50"
+    },
+    {
+      "type": "texte",
+      "contenu": "Sandevistan",
+      "couleur": "#3498db"
+    },
+    {
+      "type": "texte",
+      "contenu": "Cyberconsole",
+      "couleur": "#e74c3c"
+    },
+    {
+      "type": "texte",
+      "contenu": "Monocorde",
+      "couleur": "#2ecc71"
+    },
+    {
+      "type": "texte",
+      "contenu": "tendons renforcés",
+      "couleur": "#f1c40f"
+    }
+  ]
+}
