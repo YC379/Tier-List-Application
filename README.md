@@ -1,4 +1,4 @@
-# ☕ Tea AirList — Créateur de Tier List interactif
+# ☕ Tea AirList - Créateur de Tier List interactif
 
 ---
 
